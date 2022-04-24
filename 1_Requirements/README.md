@@ -1,8 +1,31 @@
+# REQUIREMENTS
 
+## Heat Control System 
+
+## DESCRIPTION
 This project aims to explain the task of keeping to control the temprature of the seat .To produce a robust-designed of heat control system. Gives full functional statements to the management of the User. The purpose of this project is to present a general approach to result of controlling the heat of the seats.
 
 ## RESEARCH
 OBJECTIVES: The aim of the project is to design a CAR SEAT HEAT CONTROL SYSTEM, Climate control is a more sophisticated form of air-conditioning, which allows the temperature of a cars Seats to be accurately controlled. Users can set the required temperature and the system automatically adjusts the speed and amount of cold air introduced into the Seats & cabin
+
+| High Level Requirements |  Description       |
+| ---------------------- | ----------------   |
+| HLR1                   | Temperature sensor |
+| HLR2                   | Switches           |
+| HLR3                   | Heat Generation    |
+| HLR4                   | Microcontroller    |
+| HLR5                   | Software used      |
+| HLR6                   | Display            |
+
+## LOW LEVEL REQUIREMENTS
+
+| Low Level Requirements |  Description          |
+| ---------------------- | ----------------      |
+| LLR1                   | thermoelectric module |
+| LLR2                   | Push button           |
+| LLR3                   | ADC and PWM fast      |
+| LLR4                   | LM35 and ADC          |
+| LLR5                   | Atmega328             |
 
 ## 4W's and 1'H
 WHO:
