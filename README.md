@@ -9,7 +9,7 @@ The aim of the project is to design a CAR SEAT HEAT CONTROL SYSTEM, Climate cont
 
 | cpp check | CI | Linux |
 | ----- | ---- | ---- |
-| [![Cpp check](https://github.com/theparthzala/M2_Heatcontrol/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/theparthzala/M2_Heatcontrol/actions/workflows/Cpp%20check.yml) | [![CI](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CI.yml) | [![Build Linux](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/linux.yml/badge.svg)](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/linux.yml) |
+| [![Cpp check](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CPP%20check.yml/badge.svg)](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CPP%20check.yml) | [![CI](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CI.yml/badge.svg)](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/CI.yml) | [![Build Linux](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/linux.yml/badge.svg)](https://github.com/sachinr24/M2_HeatControllerSystem/actions/workflows/linux.yml) |
 
 
 
