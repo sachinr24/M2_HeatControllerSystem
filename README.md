@@ -6,8 +6,8 @@ This project aims to explain the task of keeping to control the temprature of th
 The aim of the project is to design a CAR SEAT HEAT CONTROL SYSTEM, Climate control is a more sophisticated form of air-conditioning, which allows the temperature of a cars Seats to be accurately controlled. Users can set the required temperature and the system automatically adjusts the speed and amount of cold air introduced into the Seats & cabin
 
 ## Badges
-![Code quality score](https://api.codiga.io/project/33102/score/svg)
-![Code_Grade](https://api.codiga.io/project/33102/status/svg)
+![Code quality score](https://api.codiga.io/project/33159/score/svg)
+![Code_Grade](https://api.codiga.io/project/33159/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c0e060ec7915477eaa1434e1f20d5bfc)](https://www.codacy.com/gh/sachinr24/M2_HeatControllerSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sachinr24/M2_HeatControllerSystem&amp;utm_campaign=Badge_Grade)
 ## Activity Based Learning
 
